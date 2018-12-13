@@ -1,7 +1,6 @@
 <?php
 
 include 'variables.php';
-// include 'Message.php';
 
 if (!file_exists($jsonFile)) {
     exit('Failas nerastas');
